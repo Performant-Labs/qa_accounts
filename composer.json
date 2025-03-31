@@ -1,5 +1,8 @@
 {
-    "name": "drupal/qa_accounts",
+    "name": "performant-labs/qa_accounts",
+    "replace": {
+        "drupal/qa_accounts": "^1.0"
+    },
     "type": "drupal-module",
     "description": "Creates dummy accounts to aid in testing. Never enable in production environments.",
     "license": "GPL-2.0-or-later",
